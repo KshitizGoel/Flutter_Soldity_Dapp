@@ -59,7 +59,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 height: 20,
               ),
               Text(
-                'Click to Transact',
+                'Transactions',
                 style: TextStyle(
                     fontWeight: FontWeight.bold,
                     fontSize: 20,
